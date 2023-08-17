@@ -2,7 +2,11 @@
 
 Welcome to the Grocery Store Simulation, a journey into queuing theory and discrete-event simulation. Experience a bustling grocery store, complete with checkout queues and cashiers. Dive into optimal cashier staffing and more.
 
+Note: 
+
 ### **Key Features:**
+
+- **Object-Oriented Programming:**  This simulation uses OOP concepts, such as composition (e.g., a Grocery Store is composed of multiple Queues) to encode complex relationships between objects.
 
 - **Queuing Theory:** Our simulation, based on the c*M/G/1 model, integrates queuing theory. Explore queue sizes, cashier and manager service times, and the probability of extended service.
 
