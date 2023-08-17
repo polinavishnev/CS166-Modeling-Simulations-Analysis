@@ -5,9 +5,7 @@ _Note: Due to the large size of the Jupyter Notebook, please view the IPYNB file
 
 <img width="120" alt="image" src="https://github.com/polinavishnev/CS166-Modeling-Simulations-Analysis/assets/68515140/7e0ac9f2-49f9-405b-ba67-f64834d30ab1">
 
-
-
-
+## **Intro**
 Welcome to the Grocery Store Simulation, a journey into queuing theory and discrete-event simulation. Experience a bustling grocery store, complete with checkout queues and cashiers. Dive into optimal cashier staffing and more.
 
 
