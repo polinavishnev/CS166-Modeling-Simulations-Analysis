@@ -7,7 +7,9 @@ _Note: Due to the large size of the Jupyter Notebook, please view the IPYNB file
 
 ### Final Simulation
 
-<video src="https://github.com/polinavishnev/CS166-Modeling-Simulations-Analysis/assets/68515140/0d3cf01a-139d-4aa1-baac-41c4b27329af" controls="controls" style="max-width: 730;"></video>
+<video src="https://github.com/polinavishnev/CS166-Modeling-Simulations-Analysis/assets/68515140/51d6f231-f236-4494-b7ba-c4cc11723cf0" controls="controls" style="max-width: 730;"> </video>
+
+
 
 _The above shows the final version of the simulation. The distinct squares represent the car's positions. -2 nad -1 represent no car. 0 represents a stopped car. Speeds of 1+ represent moving cars. The words "GREEN" or "RED" represent the respective traffic light colors for the vertical lanes and the opposite color for the horizontal lane._
 
