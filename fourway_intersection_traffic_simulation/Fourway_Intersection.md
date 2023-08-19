@@ -9,7 +9,7 @@ _Note: Due to the large size of the Jupyter Notebook, please view the IPYNB file
 
 ![no_turning_both_queue](https://github.com/polinavishnev/CS166-Modeling-Simulations-Analysis/assets/68515140/84883518-335d-41d3-9d93-f9277a046e65)
 
-_The above shows the final version of the simulation. The distinct squares represent the car's positions. -2 and -1 represent no car. 0 represents a stopped car. Speeds of 1+ represent moving cars. The words "GREEN" or "RED" represent the respective traffic light colors for the vertical lanes and the opposite color for the horizontal lane._
+_The above shows a version of the simulation. The distinct squares represent the car's positions. -2 and -1 represent no car. 0 represents a stopped car. Speeds of 1+ represent moving cars. The words "GREEN" or "RED" represent the respective traffic light colors for the vertical lanes and the opposite color for the horizontal lane._
 
 
 Experience vehicle dynamics through my Four-Way Intersection Simulation. Delve into complex traffic scenarios with a focus on:
