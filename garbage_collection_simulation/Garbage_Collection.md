@@ -1,5 +1,13 @@
 ## Garbage Collection Simulation
 
+
+_Note: Due to the large size of the Jupyter Notebook, please view the IPYNB file in the "Code" mode._ 
+
+<img width="120" alt="image" src="https://github.com/polinavishnev/CS166-Modeling-Simulations-Analysis/assets/68515140/7e0ac9f2-49f9-405b-ba67-f64834d30ab1">
+
+
+### Intro
+
 Uncover the core elements driving my Garbage Collection Simulation, designed to address the complex vehicle routing problem in waste management while integrating key libraries and network theory.
 
 - **Dynamic Framework:** The simulation mirrors real-world waste collection dynamics, tackling the intricacies of the vehicle routing problem.
